@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Alatsi&display=swap');
+
+.nav-links > ul{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: center;
+    text-decoration: none;
+    margin-top: 0px;
+    font-family: 'Alatsi', sans-serif;
+    float: left;
+    color: white;
+    text-shadow: grey 2px 3px 3px;
+    padding: 1px 10px;
+    font-size: 20px;   
+  }
+  ul:hover{
+    color: red;
+    transform: scale(1.1);
+    transition: 2s;
+    }
+    .linkAnim:hover{
+      color: red;
+      transition: 2s;
+    }

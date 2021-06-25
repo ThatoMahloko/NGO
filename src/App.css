@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Alatsi&display=swap');
+
+.App{
+  display: flex;
+  flex-direction: column;
+}
+body{
+  background-image: url('./components/images/pic2.jpg');
+  background-size: 1920px ,1080px;
+}
+
